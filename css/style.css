@@ -989,6 +989,9 @@ body {
       line-height: 22px;
       border-bottom: 1px solid #E2E2E2;
   }
+  .mobile-menu__item {
+      color: #1A252C;
+  }
 
     .mobile-menu__footer {
         padding: 24px 30px;
@@ -1273,6 +1276,10 @@ body {
         line-height: 40px;
     }
     
+    .timer__units {
+        font-size: 14px;
+    }
+
     .timer__separator {
         font-size: 32px;
         line-height: 40px;
